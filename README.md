@@ -1,2 +1,3 @@
-# cursosOracle
-Se programará acá todos los cursos de que aprendí en Oracle Next Education
+# JS Game
+
+Se verá en el siguiente código un juego de adivinar un número de manera aleatoria.
